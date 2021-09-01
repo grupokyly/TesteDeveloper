@@ -29,6 +29,7 @@ namespace TesteDeveloper
         public bool EstoqueDisponivel(string referencia, int quantidadeRequerida)
         {
             //TODO - Implemente sua lógica para validar o estoque da referência
+            //Dica: Os estoques estão na lista _estoques inicializada no construtor
         }
 
         /// <summary>
@@ -39,6 +40,7 @@ namespace TesteDeveloper
         public int GetSaldo(string referencia)
         {
             //TODO - Implemente sua lógica para buscar e retornar o estoque da referência
+            //Dica: Os estoques estão na lista _estoques inicializada no construtor
         }
 
 
@@ -53,6 +55,7 @@ namespace TesteDeveloper
         public override string ToString()
         {
             //TODO - Implemente sua lógica para formatar uma string no formato esperado
+            //Dica: Os estoques estão na lista _estoques inicializada no construtor
         }
 
 
