@@ -18,7 +18,7 @@ Precisamos implementar a lógica para alguns métodos de nossa classe de gestão
 ```
 
 
-- [EstoqueDisponivel(string referencia, int quantidadeRequerida)](https://github.com/grupokyly/TesteDeveloper/blob/master/TesteDeveloper/GerenciadorEstoque.cs#L31) - Esse método deve retornar o saldo de estoque da referência
+- [EstoqueDisponivel(string referencia, int quantidadeRequerida)](https://github.com/grupokyly/TesteDeveloper/blob/master/TesteDeveloper/GerenciadorEstoque.cs#L31) - Esse método deve retornar verdadeiro se há estoque suficiente para atender a quantidade requerida para referência e falso quando a quantidade de estoque for insuficiente.
 ```cs
         /// <summary>
         /// Verifica se a quantidade requerida existe no estoque da referência
