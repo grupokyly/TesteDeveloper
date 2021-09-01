@@ -28,7 +28,7 @@ namespace TesteDeveloper
         /// <returns>Indica se a quantidade requerida existe ou não no estoque</returns>
         public bool EstoqueDisponivel(string referencia, int quantidadeRequerida)
         {
-            //TODO - Implemente sua lógica para validar o estoque da referência
+            //TODO - Implemente sua lógica para validar o estoque da referência contra a quantidade requerida
             //Dica: Os estoques estão na lista _estoques inicializada no construtor
         }
 
