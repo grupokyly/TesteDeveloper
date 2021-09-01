@@ -9,4 +9,4 @@ Precisamos implementar a lógica para alguns métodos de nossa classe de gestão
 
 
 A implementação deve ser feita na linguagem C#. Para o projeto foi utilizado o [dotnetcore 3.1](https://dotnet.microsoft.com/download)
-Clone ou faça download deste repositório e envie a implementação para [rafael@grupokyly.com.br](mailto:rafael@grupokyly.com.br). Pode enviar o link do seu próprio repositório (Deixe o repositório público) ou o arquivo compactado com a implementação.
+Clone ou faça download deste repositório e envie a implementação para [rafael@grupokyly.com.br](mailto:rafael@grupokyly.com.br?subject=Teste%20Developer%20Grupo%20Kyly). Pode enviar o link do seu próprio repositório (Deixe o repositório público) ou o arquivo compactado com a implementação.
