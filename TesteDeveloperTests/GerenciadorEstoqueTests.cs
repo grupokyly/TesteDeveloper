@@ -39,10 +39,10 @@ namespace TesteDeveloper.Tests
         }
 
         [Test()]
-        [TestCase("A2342", 10, true)]
-        [TestCase("C9546", 6, false)]
-        [TestCase("D7862", 45, true)]
-        [TestCase("E6423", 7, false)]
+        [TestCase("A2342", 10)]
+        [TestCase("C9546", 6)]
+        [TestCase("D7862", 45)]
+        [TestCase("E6423", 7)]
         public void GetSaldoTest(string referencia, int expected)
         {
             Assert.AreEqual(gerenciadorEstoque.GetSaldo(referencia), expected);
