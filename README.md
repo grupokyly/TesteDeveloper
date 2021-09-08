@@ -3,7 +3,7 @@
 A classe [GerenciadorEstoque.cs](https://github.com/grupokyly/TesteDeveloper/blob/master/TesteDeveloper/GerenciadorEstoque.cs) não está completa. 
 Precisamos implementar a lógica para alguns métodos de nossa classe de gestão do estoque. Veja os requisitos abaixo:
 
-- [GetSaldo(string referencia)](https://github.com/grupokyly/TesteDeveloper/blob/master/TesteDeveloper/GerenciadorEstoque.cs#L41) - Esse método deve retornar o saldo de estoque da referência
+- [GetSaldo(string referencia)](https://github.com/grupokyly/TesteDeveloper/blob/master/TesteDeveloper/GerenciadorEstoque.cs#L42) - Esse método deve retornar o saldo de estoque da referência
  ```cs
         /// <summary>
         /// Buscar saldo de estoque da referência
@@ -33,7 +33,7 @@ Precisamos implementar a lógica para alguns métodos de nossa classe de gestão
         }
 ```
 
-- [ToString()](https://github.com/grupokyly/TesteDeveloper/blob/master/TesteDeveloper/GerenciadorEstoque.cs#L53) - Esse método deve retornar uma string com o extrato do estoque
+- [ToString()](https://github.com/grupokyly/TesteDeveloper/blob/master/TesteDeveloper/GerenciadorEstoque.cs#L57) - Esse método deve retornar uma string com o extrato do estoque
 ```cs
         /// <summary>
         /// Gera string com os estoques no formato [Referência: {Referencia} Saldo: {SaldoEstoque}] com uma linha para cada referência
